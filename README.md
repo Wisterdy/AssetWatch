@@ -1,6 +1,6 @@
 
 # AssetWatch#
-AssetWatch is single page application that allows user's to register, log in, and manage their financial assets in one location. The application providers users the functionality to save or watch stocks and crypto to a portfolio. After saving investments to their portfolio users can perform various CRUD operation with the investment in their portfolio.AssetWatch also provides the user with news feed information that relates to their investment in their portfolio. 
+AssetWatch is single page application that allows user's to register, log in, and manage their financial assets in one location. The application providers users the functionality to save or watch stocks and crypto to a portfolio. After saving investments to their portfolio users can perform various CRUD operations with the investment in their portfolio.AssetWatch also provides the user with news feed information that relates to their investment in their portfolio. 
 
 ## Technologies used ##
 ----
@@ -40,16 +40,16 @@ to-do-list:
 
 ## Getting started ##
 1. git clone the repository   
-2. Require a proper IDE to run the application such as Springtool, Netbeans, or Eclipse.
+2. Require a proper IDE to run the application such as Springtool, Netbeans, or Eclipse.   
 3. Download the frontend using from this repository https://github.com/mwomack117/AssetWatch-front
 
 ## Usage ##
 1. run the the backend on IDE as a Maven Project
-2.open the frontend folder use npm to install dependencies.  
-3.run Ng serve to run frontend. 
-4.Applications is currently live at http://assetwatch.s3-website-us-east-1.amazonaws.com/
-
+2. open the frontend folder use npm to install dependencies.
+3. run the front with ng serve
+4. website is live now page can be visite at http://assetwatch.s3-website-us-east-1.amazonaws.com/
 
 
 
  ## License ##
+
