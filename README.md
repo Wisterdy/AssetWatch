@@ -45,8 +45,8 @@ to-do-list:
 
 ## Usage ##
 1. run the the backend on IDE as a Maven Project
-2.open the frontend folder use npm to install dependencies. 
-3.run Ng serve to run frontend
+2.open the frontend folder use npm to install dependencies.  
+3.run Ng serve to run frontend. 
 4.Applications is currently live at http://assetwatch.s3-website-us-east-1.amazonaws.com/
 
 
