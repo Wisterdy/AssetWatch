@@ -1,6 +1,6 @@
 
 # AssetWatch#
-AssetWatch is single page application that allows user's to register, log in, and manage their financial assets in one location. The application providers users the functionality to save or watch stocks and crypto to a portfolio. After saving investments to their portfolio users can perform various CRUD operations with the investment in their portfolio.AssetWatch also provides the user with news feed information that relates to their investment in their portfolio. 
+AssetWatch provides a personal dashboard for users to aggregate all their investment holdings data into a visual table/or chart to view in one location. This can be very convenient for users that might have many different investments spread across different trading platforms or exchanges. Instead of a user having to log into various accounts to view their holdings, they can see all the data in one location. Furthermore, they can see a sum total of their investments to keep track of their total profit/loss.
 
 ## Technologies used ##
 ----
