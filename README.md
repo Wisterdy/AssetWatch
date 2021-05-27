@@ -1,5 +1,5 @@
 
-# AssetWatch#
+# AssetWatch #
 AssetWatch provides a personal dashboard for users to aggregate all their investment holdings data into a visual table/or chart to view in one location. This can be very convenient for users that might have many different investments spread across different trading platforms or exchanges. Instead of a user having to log into various accounts to view their holdings, they can see all the data in one location. Furthermore, they can see a sum total of their investments to keep track of their total profit/loss.
 
 ## Technologies used ##
@@ -41,7 +41,7 @@ to-do-list:
 ## Getting started ##
 1. git clone the repository   
 2. Require a proper IDE to run the application such as Springtool, Netbeans, or Eclipse.   
-3. Download the frontend using from this repository https://github.com/mwomack117/AssetWatch-front
+3. Download the frontend or backend orginal repo from this repository https://github.com/AssetWatch
 
 ## Usage ##
 1. run the the backend on IDE as a Maven Project
